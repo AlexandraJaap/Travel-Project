@@ -267,4 +267,8 @@ footer a {
   .embed {
     aspect-ratio: 16 / 9;
   }
+
+  .grid-3-columns {
+    overflow-x: hidden;
+  }
 }
